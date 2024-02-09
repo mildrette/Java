@@ -17,3 +17,8 @@ int yearJavaWasCreated;
 yearJavaWasCreated = 1996;
 // declaration and assignment
 int numberOfPrimitiveTypes = 8;
+
+// doubles can have decimal places:
+double price = 8.99;
+// doubles can have values bigger than what an int could hold:
+double gdp = 12237700000;

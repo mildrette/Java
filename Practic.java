@@ -9,5 +9,9 @@
         int myAge;
         myAge = 28;
         System.out.println(myAge);
+
+        // double datatype
+        double priceOfGoods = 90.1;
+        System.out.println(priceOfGoods);
     }
  }
