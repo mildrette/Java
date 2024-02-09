@@ -13,5 +13,21 @@
         // double datatype
         double priceOfGoods = 90.1;
         System.out.println(priceOfGoods);
+
+// Boolean datatype
+
+Boolean intsCanHoldDecimals = false;
+System.out.println(intsCanHoldDecimals);
+
+// char datatype
+
+char expectedGrade = 'A';
+System.out.println(expectedGrade);
+
+
+
+
+
+
     }
  }
